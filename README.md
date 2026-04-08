@@ -2,7 +2,7 @@
 
 🎯 Building data-driven products at the intersection of business, systems, and analytics  
 📊 Experience in IT audit, risk analytics, and data-driven decision support  
-🎓 Incoming MS student @ CMU Heinz College (MISM-BIDA, Fall 2026)  
+🎓 Incoming MS student @ Carnegie Mellon University (Master of Information System Management - Business Intelligence & Data Analytics Track, Fall 2026)  
 🌏 Seoul → Pittsburgh  
 
 ---
