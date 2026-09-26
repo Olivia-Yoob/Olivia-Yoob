@@ -7,14 +7,15 @@
 
 ---
 
-### 🛡️ About Me
-- 📊 **3.5 years at Deloitte Korea**: designed risk indicators and alerts for banks and insurers, and audited transaction-system controls at 23 companies
-- 🎯 **Focus**: fraud and credit models, model validation, and the controls around transactions (ICFR / SOX)
+## 🛡️ About Me
+- 🏦 **Deloitte Korea, 3.5 years**: designed risk indicators and alerts for Korea's major banks, securities firms, and insurers, and for its national securities depository (Korea's DTCC). Cut a life insurer's risk detection cycle from quarterly to monthly
+- 🔍 **Transaction controls at 23 companies**: tested payment, order, and access controls across finance, e-commerce, gaming, and manufacturing (ICFR / SOX)
+- 🎯 **Focus**: fraud and credit models, model validation, and the controls around transactions
 - ⚖️ **Approach**: set each threshold by what a mistake costs, then track whether it still holds
 
 ---
 
-### 💡 What I Do
+## 💡 What I Do
 - **Fraud & Credit Models**: set alert and approval thresholds by the cost of a missed case vs. a false alarm
 - **Risk Alerts**: two-tier KRI thresholds, real-time alerts, and who gets notified when a limit is breached
 - **Controls Testing**: application controls, user access, ICFR / SOX
@@ -31,7 +32,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat&logo=xgboost&logoColor=white)
-![statsmodels](https://img.shields.io/badge/statsmodels-Time%20Series-4B8BBE?style=flat)
+![statsmodels](https://img.shields.io/badge/statsmodels-4B8BBE?style=flat)
 ![SHAP](https://img.shields.io/badge/SHAP-Explainability-FF4B4B?style=flat)
 
 **Methods**  
