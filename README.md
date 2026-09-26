@@ -1,18 +1,18 @@
 # Hi, I'm Olivia (Yoobin) Kim 👋
 
-🎯 Building data-driven products at the intersection of business, systems, and analytics  
-🛡️ Bridging ML and AI governance — turning models into governed, auditable risk assets  
-📊 Experience in IT audit, risk analytics, and data-driven decision support  
-🎓 Carnegie Mellon University (Master of Information System Management - Business Intelligence & Data Analytics Track)  
+🎯 Fraud, payments & model risk analytics: catching risky transactions and keeping the models behind them trustworthy  
+🛡️ Setting decision thresholds by what errors actually cost, then watching them for drift  
+📊 3.5 years at Deloitte Korea: risk indicators & alerting for banks and insurers, transaction-system controls at 23 companies  
+🎓 Carnegie Mellon University (Master of Information Systems Management - Business Intelligence & Data Analytics Track)  
 🌏 Seoul → Pittsburgh  
 
 ---
 
 ## 💡 What I Do
-- Translate business requirements into data-driven solutions  
-- Analyze risk and process inefficiencies using data  
-- Govern ML systems with model cards, fairness audits, and drift monitoring  
-- Build simple products to test ideas quickly  
+- Build fraud and credit models with thresholds tuned to the cost of a miss vs. a false alarm  
+- Design risk indicators and alerts: two-tier KRI thresholds, real-time monitoring, escalation  
+- Test the controls around transactions: application controls, access, ICFR / SOX  
+- Validate and monitor models: backtesting, segment error analysis, drift, model cards  
 
 ---
 
@@ -20,42 +20,46 @@
 
 **Data & Analytics**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-Oracle%20%7C%20SQL%20Server%20%7C%20MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat&logo=xgboost&logoColor=white)
+![statsmodels](https://img.shields.io/badge/statsmodels-Time%20Series-4B8BBE?style=flat)
 ![SHAP](https://img.shields.io/badge/SHAP-Explainability-FF4B4B?style=flat)
+
+**Risk & Domain**  
+![Fraud](https://img.shields.io/badge/Fraud%20%26%20Payments-Risk-8B0000?style=flat)
+![Model Risk](https://img.shields.io/badge/Model%20Risk-SR%2011--7-1F4E79?style=flat)
+![KRI](https://img.shields.io/badge/KRI-Thresholds%20%26%20Alerting-B8860B?style=flat)
+![Backtesting](https://img.shields.io/badge/VaR-Backtesting-555555?style=flat)
+![ICFR](https://img.shields.io/badge/ICFR%20%2F%20SOX-Controls%20Testing-2F4F4F?style=flat)
+![AML](https://img.shields.io/badge/AML-Controls-6A0DAD?style=flat)
+![AI Governance](https://img.shields.io/badge/AI%20Governance-NIST%20AI%20RMF-003399?style=flat)
+
+**Visualization & Tools**  
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Alteryx](https://img.shields.io/badge/Alteryx-0078C0?style=flat&logo=alteryx&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-
-**Business & Domain**  
-![Risk Analysis](https://img.shields.io/badge/Risk%20%26%20Internal%20Control-Analysis-8B0000?style=flat)
-![AI Governance](https://img.shields.io/badge/AI-Governance-1F4E79?style=flat)
-![EU AI Act](https://img.shields.io/badge/EU%20AI%20Act-Mapping-003399?style=flat)
-![NIST AI RMF](https://img.shields.io/badge/NIST%20AI%20RMF-Applied-555555?style=flat)
-![Data Governance](https://img.shields.io/badge/Data-Governance-2F4F4F?style=flat)
-![SAP](https://img.shields.io/badge/SAP-ERP-0FAAFF?style=flat&logo=sap&logoColor=white)
-![Process Automation](https://img.shields.io/badge/Process-Automation-6A0DAD?style=flat)
-
-**Visualization & Product**  
-![Dashboard Design](https://img.shields.io/badge/Dashboard-Design-E97627?style=flat)
-![Data Storytelling](https://img.shields.io/badge/Data-Storytelling-2E86AB?style=flat)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-CMDB-62D84E?style=flat&logo=servicenow&logoColor=white)
 
-**Languages**  
-![Korean](https://img.shields.io/badge/Korean-Native-red?style=flat)
-![English](https://img.shields.io/badge/English-Fluent-blue?style=flat)
+**Certifications**  
+![SQL Developer](https://img.shields.io/badge/SQLD-SQL%20Developer%20(2021)-4479A1?style=flat&logo=mysql&logoColor=white)
+![Advanced Data Analytics Semi-Professional](https://img.shields.io/badge/ADsP-Data%20Analytics%20Semi--Professional%20(2022)-2E7D32?style=flat)
+![Tableau Desktop Certificate](https://img.shields.io/badge/Tableau-Desktop%20Specialist-E97627?style=flat&logo=tableau&logoColor=white)
 
 ---
 
 ## 📂 Projects
-- 🛡️ **[Fraud Detection with AI Risk Governance](https://github.com/Olivia-Yoob/fraud-detection-ai-governance)** — End-to-end fraud ML (XGBoost, PR-AUC 0.87) wrapped in an enterprise governance layer: model card, SHAP explainability, fairness audit, drift monitoring (PSI + 24-month KRI control limits), and **EU AI Act / NIST AI RMF** mapping
-- 📊 [SQL Study](https://github.com/Olivia-Yoob/sql-study) — Practicing query optimization and data extraction
+- 🛡️ **[Card Fraud Detection](https://github.com/Olivia-Yoob/fraud-detection-ai-governance)**: where should the alert threshold sit when a missed fraud costs $200 and a false alarm $5? Caught **88 of 98 frauds** (recall 0.898, PR-AUC 0.866), and found recall drops to ~0.50 on **$500+ transactions**, logged as an open risk with drift monitoring on top
+- 💳 **[Credit Default Risk](https://github.com/Olivia-Yoob/credit-default-risk-ai-governance)**: an approval cutoff for 307,511 applicants when a missed default costs 10× a wrong decline. Lifted defaulter recall **0.04 → 0.63**, then audited it for fair lending (age DI 0.65 flagged)
+- 🤖 **[LLM Safety Evaluator](https://github.com/Olivia-Yoob/LLM-Safety-Evaluator-AI-Governance)**: an ML baseline vs. an LLM classifier on 159,571 comments, a red-team test suite, and severity-tiered thresholds with drift KRIs
 
 ---
 
 ## 📫 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Olivia%20Yoobin%20Kim-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/enthusiasticyoob1998/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Olivia%20Yoobin%20Kim-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/olivia-yoobin-kim/)
+[![Website](https://img.shields.io/badge/Website-oliviayoobinkim.com-222222?style=flat&logo=googlechrome&logoColor=white)](https://oliviayoobinkim.com)
+![Email](https://img.shields.io/badge/Email-yoobink%40andrew.cmu.edu-C4122F?style=flat&logo=gmail&logoColor=white)
