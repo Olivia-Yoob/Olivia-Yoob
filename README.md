@@ -68,6 +68,7 @@
 - 🛡️ **[Card Fraud Detection](https://github.com/Olivia-Yoob/fraud-detection-ai-governance)**: where should the alert threshold sit when a missed fraud costs $200 and a false alarm $5? Caught **88 of 98 frauds** (recall 0.898, PR-AUC 0.866), and found recall drops to ~0.50 on **$500+ transactions**, logged as an open risk with drift monitoring on top
 - 💳 **[Credit Default Risk](https://github.com/Olivia-Yoob/credit-default-risk-ai-governance)**: an approval cutoff for 307,511 applicants when a missed default costs 10× a wrong decline. Lifted defaulter recall **0.04 → 0.63**, then audited it for fair lending (age DI 0.65 flagged)
 - 🤖 **[LLM Safety Evaluator](https://github.com/Olivia-Yoob/LLM-Safety-Evaluator-AI-Governance)**: an ML baseline vs. an LLM classifier on 159,571 comments, a red-team test suite, and severity-tiered thresholds with drift KRIs
+- 📈 **[Time Series Forecasting](https://github.com/Olivia-Yoob/time-series-forecasting)**: two case studies judged against a naive benchmark and across 4 rolling backtest windows. Seasonal ETS ranked 1st in every window; on JPM prices, only a model combination beat the naive forecast
 
 ---
 
