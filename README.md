@@ -3,7 +3,7 @@
 > **Fraud, Payments & Model Risk Analytics**
 > *I find risky transactions and check that the models flagging them still work.*
 
-📍 **Seoul → Pittsburgh** | 🎓 **Carnegie Mellon University** (MISM - Business Intelligence & Data Analytics)
+📍 **Seoul → Pittsburgh** | 🎓 **Carnegie Mellon University** (Information System Management - Business Intelligence & Data Analytics)
 
 ---
 
