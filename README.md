@@ -1,18 +1,24 @@
 # Hi, I'm Olivia (Yoobin) Kim 👋
 
-🎯 Fraud, payments & model risk analytics: catching risky transactions and keeping the models behind them trustworthy  
-🛡️ Setting decision thresholds by what errors actually cost, then watching them for drift  
-📊 3.5 years at Deloitte Korea: risk indicators & alerting for banks and insurers, transaction-system controls at 23 companies  
-🎓 Carnegie Mellon University (Master of Information Systems Management - Business Intelligence & Data Analytics Track)  
-🌏 Seoul → Pittsburgh  
+> **Fraud, Payments & Model Risk Analytics**
+> *I find risky transactions and check that the models flagging them still work.*
+
+📍 **Seoul → Pittsburgh** | 🎓 **Carnegie Mellon University** (MISM - Business Intelligence & Data Analytics)
 
 ---
 
-## 💡 What I Do
-- Build fraud and credit models with thresholds tuned to the cost of a miss vs. a false alarm  
-- Design risk indicators and alerts: two-tier KRI thresholds, real-time monitoring, escalation  
-- Test the controls around transactions: application controls, access, ICFR / SOX  
-- Validate and monitor models: backtesting, segment error analysis, drift, model cards  
+### 🛡️ About Me
+- 📊 **3.5 years at Deloitte Korea**: designed risk indicators and alerts for banks and insurers, and audited transaction-system controls at 23 companies
+- 🎯 **Focus**: fraud and credit models, model validation, and the controls around transactions (ICFR / SOX)
+- ⚖️ **Approach**: set each threshold by what a mistake costs, then track whether it still holds
+
+---
+
+### 💡 What I Do
+- **Fraud & Credit Models**: set alert and approval thresholds by the cost of a missed case vs. a false alarm
+- **Risk Alerts**: two-tier KRI thresholds, real-time alerts, and who gets notified when a limit is breached
+- **Controls Testing**: application controls, user access, ICFR / SOX
+- **Model Validation**: VaR and forecast backtesting, error analysis by segment, drift checks, model cards
 
 ---
 
@@ -27,6 +33,11 @@
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat&logo=xgboost&logoColor=white)
 ![statsmodels](https://img.shields.io/badge/statsmodels-Time%20Series-4B8BBE?style=flat)
 ![SHAP](https://img.shields.io/badge/SHAP-Explainability-FF4B4B?style=flat)
+
+**Methods**  
+![Time Series](https://img.shields.io/badge/Time%20Series-ETS%20%7C%20ARIMA-4B8BBE?style=flat)
+![Backtesting](https://img.shields.io/badge/Backtesting-Forecast%20%7C%20VaR-555555?style=flat)
+![Cost-sensitive](https://img.shields.io/badge/Cost--Sensitive-Thresholding-8B0000?style=flat)
 
 **Risk & Domain**  
 ![Fraud](https://img.shields.io/badge/Fraud%20%26%20Payments-Risk-8B0000?style=flat)
